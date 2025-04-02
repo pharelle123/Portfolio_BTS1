@@ -1,11 +1,11 @@
 # Mon Portfolio
 
-* Langages
+**Langages**
  * html
  * css
  * js
  * java
  * Node
  * Php
-* **Dépot**
+**Dépot**
  * Github
