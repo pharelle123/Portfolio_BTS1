@@ -14,4 +14,4 @@
 **Dépot**
  * Github
 
- ### Voir plus: "http://127.0.0.1:5500/index.html"
+ ### Voir plus: "https://pharelle123.github.io/Portfolio_BTS1/"
