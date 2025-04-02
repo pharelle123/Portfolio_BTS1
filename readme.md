@@ -14,4 +14,4 @@
 **Dépot**
  * Github
 
- ### Voir plus: "https://pharelle123.github.io/Portfolio_BTS1/"
+ ### [publication portfolio]: "https://pharelle123.github.io/Portfolio_BTS1/"
