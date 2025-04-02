@@ -6,7 +6,7 @@
 ## Description
 
 
->Bienvenue sur mon portfolio, réalisé avec React, Vite, React Router DOM et Tailwind CSS. Ce projet met en avant mes compétences, mes projets, et offre un moyen de me contacter
+>Bienvenue sur mon portfolio, réalisé avec html, , React Router DOM et Tailwind CSS. Ce projet met en avant mes compétences, mes projets, et offre un moyen de me contacter
 
 **Langages**
  * html
