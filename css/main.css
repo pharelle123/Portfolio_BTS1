@@ -59,9 +59,9 @@ header {
         transition: background-color 0.3s ease;
     }
     /* survole */
-    nav ul li :hover a{
+    nav ul li a:hover {
       background-color:  #42414d;
-      color: #EEEEEE;
+      color: #948a8a;
       
     }
    
