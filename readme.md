@@ -14,4 +14,4 @@
 **Dépot**
  * Github
 
- ### Voir plus: "file:///C:/Users/User/Downloads/prototype-2.pdf"
+ ### Voir plus: "http://127.0.0.1:5500/index.html"
