@@ -1,23 +1,33 @@
 @import url(./reset.css);
 
 header {
-    background-color: #222831;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 1px solid;
+  background-color: #222831;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid;
+ /*  padding: 5px 30px; */
+ 
+    .logo{
+      width: 9rem;
+      margin: 0;
+      display: inline-block;
+
+    }
     .logo img{
-        max-height: 20px;
+      display: inline-block;
+      width: 100%;
+      vertical-align: middle;
+      object-fit: cover;
+      
     }
     h1 {
      margin: 0;
-      line-height: 8.5rem;
+     /*  line-height: 8.5rem; */
       color: #fff;
-      /* text-align: center; */
-      text-transform: uppercase;
       font-weight: bolder;
-      font-size: 2.5em;
-      padding-left: 2rem;
+      font-size: 1.5em;
+  
       
      
     }
@@ -39,16 +49,17 @@ header {
     }
     nav ul li {
       width: 15rem;
-      /* background-color:  #ccc; */
       line-height: 8.5rem;
-      text-transform: uppercase;
       margin-left: 20px;
     }
-    nav a{
+    nav li a{
         text-decoration: none;
+        color: white;
+        padding: 8px 15px;
+        transition: background-color 0.3s ease;
     }
     /* survole */
-    nav ul li:hover a{
+    nav ul li :hover a{
       background-color:  #42414d;
       color: #EEEEEE;
       
@@ -56,3 +67,50 @@ header {
    
     
   }
+  .logo{
+    margin-top: 40px;
+  }
+  section{
+    text-align: center;
+    padding: 50px;
+    h2{
+      font-size: 8rem;
+      margin-bottom: 20px;
+      margin-left: 20px;
+      text-align: left;
+      margin-bottom: 20px;
+     
+
+    }
+    img{
+      max-width: 50%;
+      height: auto;
+      margin: 0;
+    }
+  }
+  .primary {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+#langages {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+#langages li {
+    width: 100px;
+}
+
+#langages img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s;
+}
+
+#langages img:hover {
+    transform: scale(1.1);
+}
