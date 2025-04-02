@@ -1,0 +1,6 @@
+@import url(./reset.css);
+section{
+    h2{
+        font-size: large;
+    }
+}
