@@ -1,5 +1,4 @@
 @import url(./reset.css);
-
 header {
   background-color: #222831;
   display: flex;
@@ -10,7 +9,8 @@ header {
  
     .logo{
       width: 9rem;
-      margin: 0;
+      margin: 0 2px;
+      padding: 2px 2px;
       display: inline-block;
 
     }
