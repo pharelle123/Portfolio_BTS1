@@ -1,11 +1,14 @@
-#   👩‍💻 Mon Portfolio
+#   👩‍💻 Mon Portfolio de développeur Web
 ![alt text](growtika-yGQmjh2uOTg-unsplash.jpg)
+
+## 🖥️Aperçu
+  ### [publication portfolio]: "https://pharelle123.github.io/Portfolio_BTS1/"
 ## Description
-> 📁contenu
 
-Bienvenue sur mon portfolio de première année de BTS SIO option SLAM! Vous y trouverez un aperçu de mes compétences en développement, allant de la conception de sites Web avec HTML et CSS à la création d'applications en java. Découvrez mes projets et mon évolution tout au long de cette année.
 
->**Langages**
+>Bienvenue sur mon portfolio, réalisé avec React, Vite, React Router DOM et Tailwind CSS. Ce projet met en avant mes compétences, mes projets, et offre un moyen de me contacter
+
+**Langages**
  * html
  * css
  * js
@@ -13,7 +16,8 @@ Bienvenue sur mon portfolio de première année de BTS SIO option SLAM! Vous y t
  * Node
  * Php
 
-**Dépot**
- * Github
+🚀🚀**Fonctionnalités**
+* 👧 **Une présentation personelle** : Une section pour découvrir qui je suis
+* 🧑‍🚀 **Mes objectifs** : Une section qui renseigne sur mes ambitions
+* 👩‍🎓 **Projets réalisés** : 
 
- ### [publication portfolio]: "https://pharelle123.github.io/Portfolio_BTS1/"

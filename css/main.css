@@ -1,0 +1,58 @@
+@import url(./reset.css);
+
+header {
+    background-color: #222831;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid;
+    .logo img{
+        max-height: 20px;
+    }
+    h1 {
+     margin: 0;
+      line-height: 8.5rem;
+      color: #fff;
+      /* text-align: center; */
+      text-transform: uppercase;
+      font-weight: bolder;
+      font-size: 2.5em;
+      padding-left: 2rem;
+      
+     
+    }
+   
+    nav ul{
+      display: flex;
+      align-items: center;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      
+   }
+    nav ul li *{
+      display: block;
+      color: #fff;
+      text-align: center;
+      transition: all .8s ease-in-out;
+  
+    }
+    nav ul li {
+      width: 15rem;
+      /* background-color:  #ccc; */
+      line-height: 8.5rem;
+      text-transform: uppercase;
+      margin-left: 20px;
+    }
+    nav a{
+        text-decoration: none;
+    }
+    /* survole */
+    nav ul li:hover a{
+      background-color:  #42414d;
+      color: #EEEEEE;
+      
+    }
+   
+    
+  }
